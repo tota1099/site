@@ -11,7 +11,7 @@ const About = () => {
                 <a href="mailto:renan.porto1099@gmail.com">renan.porto1099@gmail.com</a>
               </div>
               <p className="lead mb-5">Software developer and passionate about sports. Always in search of knowledge and new challenges, focused on solutions and personal development.</p>
-              <div className="social-icons text-center">
+              <div className="social-icons">
                 <a href="https://www.linkedin.com/in/renan-de-medeiros-porto" rel="noopener noreferrer" target="_blank">
                   <i className="fab fa-linkedin-in"></i>
                 </a>

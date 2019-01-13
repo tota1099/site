@@ -18,6 +18,26 @@ const Education = () => {
                     </div>
                 </div>
 
+                <div className="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div className="resume-content mr-auto">
+                    <h3 className="mb-0">SENAI (National Service of Industrial Training)</h3>
+                    <div className="subheading mb-3">Programmer 2013</div>
+                    </div>
+                    <div className="resume-date text-md-right">
+                    <span className="text-primary">February 2013 - November 2013</span>
+                    </div>
+                </div>
+
+                <div className="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div className="resume-content mr-auto">
+                    <h3 className="mb-0">SENAI (National Service of Industrial Training)</h3>
+                    <div className="subheading mb-3">Support and Maintenance in Computers and local networks</div>
+                    </div>
+                    <div className="resume-date text-md-right">
+                    <span className="text-primary">February 2012 - November 2012</span>
+                    </div>
+                </div>
+
                 </div>
             </section>
         </div>
