@@ -10,7 +10,7 @@ const Education = () => {
 
                 <div className="resume-item d-flex flex-column flex-md-row mb-5">
                     <div className="resume-content mr-auto">
-                    <h3 className="mb-0">Universidade do Sul de Santa Catarina</h3>
+                    <h3 className="mb-0">University of South Santa Catarina</h3>
                     <div className="subheading mb-3">Bachelor of Information Systems</div>
                     </div>
                     <div className="resume-date text-md-right">
