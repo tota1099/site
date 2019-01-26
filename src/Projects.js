@@ -85,6 +85,7 @@ class Projects extends Component {
                                             key={repo.id}
                                             title={repo.name}
                                             githubUrl={repo.html_url}
+                                            gitHubHomepage={repo.homepage}
                                             description={repo.description}
                                             imageUrl={this.getRepoImageUrl(repo)}
                                             imageAlt="Repo Image"

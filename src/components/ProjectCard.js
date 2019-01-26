@@ -15,6 +15,11 @@ const ProjectCard = props => {
                         <li className="list-inline-item">
                             <a href={props.githubUrl} rel="noopener noreferrer" target="_blank"><i className="fab fa-github"></i></a>
                         </li>
+                        {props.gitHubHomepage && 
+                            <li className="list-inline-item">
+                                <a href={props.gitHubHomepage} rel="noopener noreferrer" target="_blank"><i className="fas fa-external-link-alt"></i></a>
+                            </li>
+                        }
                     </h5>
                     <p className="card-text">{props.description || 'No Description'}</p>
 
