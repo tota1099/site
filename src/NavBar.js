@@ -20,6 +20,9 @@ const NavBar = () => {
                 <a className="nav-link js-scroll-trigger" href="#about">About</a>
               </li>
               <li className="nav-item">
+                <a className="nav-link js-scroll-trigger" href="#projects">Projects</a>
+              </li>
+              <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#experience">Experience</a>
               </li>
               <li className="nav-item">
