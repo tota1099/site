@@ -1,6 +1,3 @@
-# renanporto.com.br
-My personal website
-
 ## renanporto.com.br
 
 My personal website
