@@ -16,39 +16,40 @@ class Projects extends Component {
         this.getRepoImageUrl = this.getRepoImageUrl.bind(this)
     }
 
-    async componentDidMount(){
+    getRepositories = () => {
+        const apiGitHubUrl = 'https://api.github.com'
+        axios.get(apiGitHubUrl + '/users/tota1099/repos')
+            .then( response => { 
+                this.setState({ repositories: response.data } )
+                this.getRepositoriesConfigurations()
+            })
+    }
 
-        await axios.get('https://api.github.com/users/tota1099/repos')
-            .then( response => this.setState({ repositories: response.data } ) )
-            .catch(function (error) {
-                console.log(error);
-            });
+    getRepositoriesConfigurations = () => {
+        const apiRawGitHubUrl = 'https://raw.githubusercontent.com'
 
-        this.state.repositories.map( repo => {
-            const url = "https://raw.githubusercontent.com/" + repo.full_name + "/master/Site/site.json"
+        for (let repo of this.state.repositories) {
+            const url = apiRawGitHubUrl + "/" + repo.full_name + "/master/Site/site.json"
+
             axios.get(url)
                 .then( response => {
-                    axios.get('https://api.github.com/repos/' + repo.full_name + '/contents/Site/banner.png')
-                        .then( response2 => {
-                            var repoConfiguration = {}
-                            response.data.imageUrl = response2.data.download_url
-                            repoConfiguration[repo.id] = response.data
 
-                            this.setState({ 
-                                repositoriesConfigurations: { 
-                                    ...this.state.repositoriesConfigurations,
-                                    ...repoConfiguration
-                                }
-                            })
-                        })
-                        .catch(function (error) {
-                            console.log(error);
-                        });
+                    const repoConfiguration = {}
+                    repoConfiguration[repo.id] = response.data
+                    this.setState({ 
+                        repositoriesConfigurations: { 
+                            ...this.state.repositoriesConfigurations,
+                            ...repoConfiguration
+                        }
+                    })
                 })
-                .catch(function (error) {
-                    console.log(error);
-                });
-        })
+                .catch(error => {
+                    console.log(error)
+                })
+        }
+    }
+    async componentDidMount(){
+        this.getRepositories()
     }
 
 
@@ -89,7 +90,7 @@ class Projects extends Component {
                                             description={repo.description}
                                             imageUrl={this.getRepoImageUrl(repo)}
                                             imageAlt="Repo Image"
-                                            technologiesIcons={this.getRepoTechnologies(repo)}
+                                            technologiesIcons={[ "react" , "html5", "css3-alt", "js-square", "npm", "aws" ]}
                                         />
                                     )
                                 })
