@@ -81,7 +81,7 @@ class Projects extends Component {
                             }
                             {this.state.repositories.length && 
                                 this.state.repositories.map( repo => {
-                                    return (
+                                    return repo.id in this.state.repositoriesConfigurations ?
                                         <ProjectCard 
                                             key={repo.id}
                                             title={repo.name}
@@ -90,9 +90,9 @@ class Projects extends Component {
                                             description={repo.description}
                                             imageUrl={this.getRepoImageUrl(repo)}
                                             imageAlt="Repo Image"
-                                            technologiesIcons={[ "react" , "html5", "css3-alt", "js-square", "npm", "aws" ]}
+                                            technologiesIcons={this.getRepoTechnologies(repo)}
                                         />
-                                    )
+                                        : null
                                 })
                         }
                         </div>
