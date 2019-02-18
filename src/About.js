@@ -18,6 +18,9 @@ const About = () => {
                 <a href="https://github.com/tota1099" rel="noopener noreferrer" target="_blank">
                   <i className="fab fa-github"></i>
                 </a>
+                <a href="https://instagram.com/porto1099/" rel="noopener noreferrer" target="_blank">
+                  <i className="fab fa-instagram"></i>
+                </a>
               </div>
             </div>
         </section>
