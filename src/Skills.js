@@ -1,14 +1,17 @@
 import React from 'react'
 
-const Skills = () => {
+const Skills = props => {
+
+    const { siteText = {} } = props
+
     return (
         <div>
             <hr className="m-0" />
             <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
                 <div className="my-auto">
-                    <h2 className="mb-5">Skills</h2>
+                    <h2 className="mb-5">{'title' in siteText && siteText.title}</h2>
 
-                    <div className="subheading mb-3">Programming Languages &amp; Tools</div>
+                    <div className="subheading mb-3">{'programming_languages_and_tools' in siteText && siteText.programming_languages_and_tools}</div>
                     <ul className="list-inline dev-icons">
                         <li className="list-inline-item">
                             <i className="fab fa-react"></i>
@@ -39,14 +42,16 @@ const Skills = () => {
                         </li>
                     </ul>
 
-                    <div className="subheading mb-3">Workflow</div>
+                    <div className="subheading mb-3">{'workflow' in siteText && siteText.workflow}</div>
                     <ul className="fa-ul mb-0">
-                    <li>
-                        <i className="fa-li fa fa-check"></i>
-                        Test Driven Development</li>
-                    <li>
-                        <i className="fa-li fa fa-check"></i>
-                        Agile Development &amp; Scrum</li>
+                        {'workflow_list' in siteText &&
+                            siteText.workflow_list.map(item =>
+                                <li>
+                                    <i className="fa-li fa fa-check"></i>
+                                    {item}
+                                </li>
+                            )
+                        }
                     </ul>
                 </div>
             </section>

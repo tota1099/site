@@ -1,6 +1,9 @@
 import React from 'react'
 
-const About = () => {
+const About = props => {
+
+    const { siteText = {} } = props
+
     return (
         <section className="resume-section p-3 p-lg-5 d-flex d-column" id="about">
             <div className="my-auto">
@@ -10,7 +13,7 @@ const About = () => {
               <div className="subheading mb-5">
                 <a href="mailto:renan.porto1099@gmail.com">renan.porto1099@gmail.com</a>
               </div>
-              <p className="lead mb-5">Software developer and passionate about sports. Always in search of knowledge and new challenges, focused on solutions and personal development.</p>
+              <p className="lead mb-5">{'description' in siteText && siteText.description}</p>
               <div className="social-icons">
                 <a href="https://www.linkedin.com/in/renan-de-medeiros-porto" rel="noopener noreferrer" target="_blank">
                   <i className="fab fa-linkedin-in"></i>

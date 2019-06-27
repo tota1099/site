@@ -1,12 +1,17 @@
 import React from 'react'
+import brazilFlag from './assets/img/brazil-flag-round-icon-32.png';
 
-const Experience = () => {
+const Experience = props => {
     return (
         <div>
             <hr className="m-0" />
             <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
                 <div className="my-auto">
                 <h2 className="mb-5">Experience</h2>
+
+                {props.language == 'pt-br' && 
+                    <h4 className="text-warning"><b>Página ainda não traduzida para o Português <img src={brazilFlag} alt="Brazil Flag"/></b></h4>
+                }
 
                 <div className="resume-item d-flex flex-column flex-md-row mb-5">
                     <div className="resume-content mr-auto">
