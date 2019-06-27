@@ -7,11 +7,11 @@ import About from './About'
 
 const Content = props => {
 
-    const { siteText = {}, language } = props
+    const { siteText = {} } = props
     return (
         <div className="container-fluid p-0">
             <About siteText={siteText.about} />
-            <Experience language={language}/>
+            <Experience siteText={siteText.experience}/>
             <Education siteText={siteText.education} />
             <Skills siteText={siteText.skills} />
             <Certifications siteText={siteText.certifications}/>

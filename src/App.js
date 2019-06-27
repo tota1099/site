@@ -28,7 +28,7 @@ class App extends Component {
     return (
       <div>
         <NavBar changeLanguage={this.changeLanguage} siteText={this.state.siteText.navbar} />
-        <Content siteText={this.state.siteText} language={this.state.language}/>
+        <Content siteText={this.state.siteText}/>
       </div>
     )
   }

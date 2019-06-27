@@ -22,13 +22,13 @@ const NavBar = props => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav">
               <li className="nav-item">
-                  <a className="js-scroll-trigger" href="javascript:void(0)" onClick={() => props.changeLanguage('pt-br')}>
+                  <span className="js-scroll-trigger cursorPointer" onClick={() => props.changeLanguage('pt-br')}>
                     <img src={brazilFlag} alt="Brazil Flag"/>
-                  </a>
+                  </span>
                   {" "}
-                  <a className="js-scroll-trigger" href="javascript:void(0)" onClick={() => props.changeLanguage('en-us')}>
+                  <span className="js-scroll-trigger cursorPointer"onClick={() => props.changeLanguage('en-us')}>
                     <img src={usaFlag} alt="USA Flag" />
-                  </a>
+                  </span>
               </li>
               <li className="nav-item">
                 <a className="nav-link js-scroll-trigger" href="#about">{'about' in siteText && siteText.about}</a>
