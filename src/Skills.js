@@ -14,13 +14,13 @@ const Skills = props => {
                     <div className="subheading mb-3">{'programming_languages_and_tools' in siteText && siteText.programming_languages_and_tools}</div>
                     <ul className="list-inline dev-icons">
                         <li className="list-inline-item">
+                            <i className="fab fa-php"></i>
+                        </li>
+                        <li className="list-inline-item">
                             <i className="fab fa-react"></i>
                         </li>
                         <li className="list-inline-item">
                             <i className="fab fa-python"></i>
-                        </li>
-                        <li className="list-inline-item">
-                            <i className="fab fa-php"></i>
                         </li>
                         <li className="list-inline-item">
                             <i className="fab fa-html5"></i>
@@ -39,6 +39,9 @@ const Skills = props => {
                         </li>
                         <li className="list-inline-item">
                             <i className="fab fa-android"></i>
+                        </li>
+                        <li className="list-inline-item">
+                            <i className="fab fa-docker"></i>
                         </li>
                     </ul>
 
