@@ -15,8 +15,8 @@ description: >-
   A ideia do artigo que apresentar os conceitos de forma simples.
 category: Filosofia
 tags:
-  - filosofia
-  - tecnologia
+  - Filosofia
+  - Tecnologia
 ---
 Neste final de semana, 10 de junho de 2018 (sim, este artigo foi escrito a quase 2 anos atrás), participei de um evento de programação chamado PHPSC (https://www.phpsc.com.br/), que foi um momento de muito aprendizado e diversão, além de ter conhecido ótimas pessoas.
 
