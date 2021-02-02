@@ -16,7 +16,7 @@ description: >-
   Hoje venho aqui compartilhar um pouco sobre esta filosofia.
 category: filosofia
 tags:
-  - filosofia
+  - Filosofia
 ---
 Conheci a filosofia minimalista assistindo o documentário [Minimalism](https://www.netflix.com/br/title/80114460), que de forma resumida, mostra a história de 2 jovens que possuíam seus empregos tradicionais em busca de o sucesso profissional e que descobriram uma nova forma de viver, mais leve e feliz, que resolveram então largar tudo e espalhar a filosofia pelo mundo.
 
