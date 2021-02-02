@@ -3,6 +3,6 @@ template: page
 title: About
 slug: personal
 socialImage: /media/can.jpeg
-draft: true
+draft: false
 ---
 This is the about page
