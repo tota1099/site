@@ -3,7 +3,7 @@ template: post
 title: Os axiomas de Zurique - Axioma do Risco (1º) e da Ganancia (2°)
 slug: os-axiomas-de-zurique-1-e-2
 socialImage: /media/investiments.jpeg
-draft: true
+draft: false
 date: 2021-03-12T10:59:51.521Z
 description: >-
   O livro Os Axiomas de Zurique foi escrito por Max Gunther, é constituído de 12
