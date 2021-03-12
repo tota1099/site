@@ -43,7 +43,7 @@ Não se afobe! Não é por que o valor da ação dobrou em 1 ano, que ele irá d
 
 ##### O 3º AXIOMA MENOR
 
-Entre no negócio sabendo quanto quer ganhar; quando chegar lá caia fora! Por exemplo, comprei a ação XPTO a R$ 10,00 e estipulei o valor de saída de R$ 15,00 (50% de valorização). Chegando a esse valor eu vou liquidar minha posição (vender as ações) independente de qualquer outra coisa. Lembre-se que o valor da ação subiu mas NADA garante que irá continuar subindo e até mesmo se não vai cair para R$ 5,00 por exemplo.
+Entre no negócio sabendo quanto quer ganhar; quando chegar lá caia fora! Por exemplo, comprei a ação XPTO a 10,00 e estipulei o valor de saída de 15,00 (50% de valorização). Chegando a esse valor eu vou liquidar minha posição (vender as ações) independente de qualquer outra coisa. Lembre-se que o valor da ação subiu mas NADA garante que irá continuar subindo e até mesmo se não vai cair para 5,00 por exemplo.
 
 * * *
 
