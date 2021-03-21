@@ -18,25 +18,25 @@ No mercado financeiro não existe ordem. Quem tenta encontrar ordem e padrões n
 
 ##### O 5º AXIOMA MENOR
 
-##### Cuidado com a Armadilha do historiador.
+Cuidado com a Armadilha do historiador.
 
 Nada garante que a história irá se repetir. Algumas vezes ela se repete mas é impossível prever isso. Não tente encontrar padrões que se repetiram no passado com a esperança de que eles irão se repetir novamente.
 
 ##### O 6º AXIOMA MENOR
 
-##### Cuidado com a ilusão do grafista
+Cuidado com a ilusão do grafista
 
 É uma extensão da armadilha do historiador, onde se pressupõe que devido a alguma repetição histórica ocorre algo específico com as ações. Por exemplo: No passado sempre que trocou o presidente da república, a ação despencou. Isso não é regra! Não é por que aconteceu no passado que vai acontecer novamente.
 
 ##### O 7º AXIOMA MENOR
 
-##### Ilusão da correlação
+Ilusão da correlação
 
 A mente humana cria correlações e ilusões de casualidades que não existem. Por exemplo: podemos visualizar uma correlação de que sempre que a ação A sobe a B desce. Isso pode ter acontecido várias vezes porém isso é uma falsa ilução de ordem. Tome cuidado com as correlações que a sua mente cria.
 
 ##### O 8º AXIOMA MENOR
 
-##### Cuidado com a falacia do jogador
+Cuidado com a falacia do jogador
 
 Existem dias em que achamos ser os nossos dias "da sorte", que tudo vai dar certo. Tome cuidado com isso, pois isso pode lhe dar confiança para correr altos riscos e perder muito dinheiro!
 
@@ -50,7 +50,7 @@ Não se apaixome por uma empresa/ação especifica. É preciso ser racional e sa
 
 ##### O 9º AXIOMA MENOR
 
-##### Em uma operação que não deu certo, não deixe-se apanhar por sentimentos como lealdade ou saudade
+Em uma operação que não deu certo, não deixe-se apanhar por sentimentos como lealdade ou saudade
 
 O nosso foco é ganhar dinheiro, e se precisarmos vender aquela ação que tanto gostamos pois especulamos que ela irá cair muito em breve, não se deixe ficar preso por lealdade/gratidão. Por exemplo: Um casal que deixa de vender a sua casa por uma quantia excelente devido aos seus filhos terem se criado nela. Em poucos meses a casa se desvaloriza e eles perdem muito dinheiro. 
 
