@@ -9,6 +9,9 @@ description: Neste post comento sobre o Axioma dos padrões (5º) -Até começar
   parecer ordem, o caos não é perigoso; e da Mobilidade (6º) - Evite criar
   raizes. Elas dificultam seus movimentos.
 category: finanças
+tags:
+  - finanças
+  - axiomas-de-zurique
 ---
 #### O 5º GRANDE AXIOMA: DOS PADRÕES
 
