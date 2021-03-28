@@ -6,8 +6,9 @@ socialImage: /media/investiments.jpeg
 draft: false
 date: 2021-03-28T20:28:47.429Z
 description: Neste post comento sobre o Axioma da Intiuiçaõ (7º) - Só se pode
-  confiar num palpite que possa ser explicado.; e da Mobilidade (6º) - Evite
-  criar raizes. Elas dificultam seus movimentos.
+  confiar num palpite que possa ser explicado.; e da Religião e Ocultismo (8º) -
+  É improvável que entre os desígnios de Deus para o Universo se inclua o de
+  você ficar rico.
 category: finanças
 tags:
   - finanças
