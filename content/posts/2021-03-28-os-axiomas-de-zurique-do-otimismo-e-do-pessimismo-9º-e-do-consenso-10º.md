@@ -3,7 +3,7 @@ template: post
 title: Os axiomas de Zurique - Do otimismo e do pessimismo (9º) e do Consenso (10º)
 slug: os-axiomas-de-zurique-9-e-10
 socialImage: /media/investiments.jpeg
-draft: true
+draft: false
 date: 2021-03-28T20:51:21.390Z
 description: Neste post comento sobre o Axioma do Otimismo e do Pessimismo (9º)
   - Otimismo significa esperar o melhor, mas esperança significa saber como
