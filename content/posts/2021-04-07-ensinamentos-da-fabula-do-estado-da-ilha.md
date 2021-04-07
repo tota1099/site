@@ -33,4 +33,24 @@ A criação do banco - intermediario - permitiu que recursos ociosos se tornasse
 
 Estado precisa de dinheiro e para não aumentar os impostos, criou os titulos de dívida. Poupadores emprestam dinheiro pro estado. Isso cria a dívida pública.
 
+#################
 
+Economia cresceu.
+
+Mercado foi criado - intermediando produtores e consumidores.
+
+Foi criado serviço de transporte para levar os produtos para o mercado. Foi criada uma empresa de lenha. etc etc.
+
+Novos negocios aumentaram a produção da ilha.
+
+Deficit publico - governo gastando mais do que arrecada.
+
+Crise. Pararam de comprar dos mercados e comprando direto dos produtos. Mercado demitiu funcionarios.
+
+Economia diminuiu - recessão economica, porém o estado não diminuiu.
+
+Governo decidiu imprimir mais dinheiro.  Ficou muito mais pedra do que produtos e o preço de equilibrio subiu muito.
+
+Aumentaram os juros e aumentaram a divida publica.. com mais juros o  povo decidiu comprar as dividas publicas e diminuiu o dinheiro em circulação.
+
+Déficit primário - despesas maiores que as receitas
