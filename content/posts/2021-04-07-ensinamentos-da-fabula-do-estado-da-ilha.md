@@ -100,6 +100,8 @@ O estado do norte então criou uma regra pro banco: ele não pode emprestar todo
 
 **Referencias**
 
-https://www.ibge.gov.br/explica/pib.php#:~:text=O%20PIB%20do%20Brasil%20em,%24%202%20003%2C5%20bilh%C3%B5es.
-https://www.infoescola.com/economia/deficit-publico/
-https://www.youtube.com/channel/UCOKSOW5uJHdW7Edz37mvAFw
+[O que é PBI - IBGE](https://www.ibge.gov.br/explica/pib.php)
+
+[O Que é Deficit Público - Infoescola](https://www.infoescola.com/economia/deficit-publico/)
+
+[Canal youtube José Kobori](https://www.youtube.com/channel/UCOKSOW5uJHdW7Edz37mvAFw)
