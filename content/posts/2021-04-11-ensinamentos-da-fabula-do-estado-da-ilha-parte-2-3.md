@@ -2,7 +2,7 @@
 template: post
 title: Ensinamentos da Fabula do Estado da Ilha (Parte 2/3)
 slug: fabula-do-estado-da-ilha-2
-socialImage: /media/minimalism.jpeg
+socialImage: /media/island.jpg
 draft: true
 date: 2021-04-11T19:50:23.819Z
 description: A fábula do estado da ilha é uma série de vídeos que explica de
@@ -61,6 +61,12 @@ Não é o consumo que gera Crescimento Econômico, é a produção. Se tivermos 
 
 - - -
 
+### 3. Formação de capital e o aumento da produtividade
+
+- - -
+
 **Referencias**
 
 [Formação de capital e o aumento da produtividade](https://www.youtube.com/watch?v=Q20DGysgZ9A&ab_channel=Jos%C3%A9Kobori)
+
+[O comércio é bom para todos - A Fábula do Estado da Ilha](https://www.youtube.com/watch?v=fKKdyrxWFOA&ab_channel=Jos%C3%A9Kobori)
