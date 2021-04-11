@@ -33,8 +33,8 @@ São emitidas então as moedas na mesma proporção da produção interna da ilh
 >
 > Exemplos práticos do PIB do Brasil:
 >
-> * 2019: R$ 7,257 tri
-> * 2020: R$ 7,4 tri
+> 2019: R$ 7,257 tri\
+> 2020: R$ 7,4 tri
 
 Devido aos novos cargos criados (presidente, juiz, policia, etc) é criado um tributo para suportar o estado. Com isto, é criado o imposto de 20% sobre a produção.
 
