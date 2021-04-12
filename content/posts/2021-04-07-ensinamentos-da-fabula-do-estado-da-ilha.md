@@ -29,12 +29,12 @@ São emitidas então as moedas na mesma proporção da produção interna da ilh
 
 > **Conceito: PIB**
 >
-> Conforme o IBGE: O produto interno bruto representa a soma de todos os bens e serviços finais produzidos. Ele mede apenas os bens e serviços finais para evitar dupla contagem. Se um país produz R$ 100 de trigo, R$ 200 de farinha de trigo e R$ 300 de pão, por exemplo, seu PIB será de R$ 300, pois os valores da farinha e do trigo já estão embutidos no valor do pão.
+> Conforme o IBGE: O produto interno bruto representa a soma de todos os bens e serviços finais produzidos. Ele mede apenas os bens e serviços finais para evitar dupla contagem. Se um país produz 100 reais de trigo, 200 de reais de farinha de trigo e 300 reais de pão, por exemplo, seu PIB será de 300 reais, pois os valores da farinha e do trigo já estão embutidos no valor do pão.
 >
 > Exemplos práticos do PIB do Brasil:
 >
-> 2019: R$ 7,257 tri
-> 2020: R$ 7,4 tri
+> 2019: 7,257 tri de reais
+> 2020: 7,4 tri de reais
 
 Devido aos novos cargos criados (presidente, juiz, policia, etc) é criado um tributo para suportar o estado. Com isto, é criado o imposto de 20% sobre a produção.
 
