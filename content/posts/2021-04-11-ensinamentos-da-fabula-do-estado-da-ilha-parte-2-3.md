@@ -3,7 +3,7 @@ template: post
 title: Ensinamentos da Fabula do Estado da Ilha (Parte 2/3)
 slug: fabula-do-estado-da-ilha-2
 socialImage: /media/island.jpg
-draft: true
+draft: false
 date: 2021-04-11T19:50:23.819Z
 description: A fábula do estado da ilha é uma série de vídeos que explica de
   forma simples como a economia funciona.  Criada por José Kobori - uma das
@@ -61,11 +61,115 @@ Não é o consumo que gera Crescimento Econômico, é a produção. Se tivermos 
 
 - - -
 
-### 3. Formação de capital e o aumento da produtividade
+### 3. O comércio é bom para todos
 
+O estado do norte possui um comercio muito mais evoluido do que o estado da ilha. 
+
+Um erro que muitos cometem é acreditar na autosuficiência, ou seja, que é bom não depender de ninguém. Vamos refletir com um exemplo:
+
+Existe 1 pecuarista vendendo carne e 1 agricultor vendendo batatas. Ambos possuem interesse em comer ambos os alimentos. 
+
+**Cenário 1 - Agricultor melhor em plantar batatas, Pecuarista em criar gado**
+
+Tanto Agricultor quanto o Pecuarista produzem batatas e carnes. O que diferencia é que as terras do agricultor são melhores e o Pecuarista é melhor criando gados.\
+Sendo assim, é mais caro para o agricultor criar gados do que o pecuarista, e mais caro para o pecuarista produzir batata do que o agricultor. Neste cenário é claro que vale mais a pena o pecuarista criar gados e o pecuarista plantar batatas.
+
+**Cenário 2 - Pecuarista melhor em criar gado e batatas**
+
+Ambos trabalham 8 por dia e eles podem optar em criar gado ou plantar batatas.
+
+<table style="font-family: Arial, Helvetica, sans-serif; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;"></td>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" colspan="2">Quantidade produzida em 8 horas</td>
+  </tr>
+<tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;">Produto</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Carne</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Batata</td>
+  </tr>
+<tr>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">AGRICULTOR</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">08kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">32 kg</td>
+  </tr>
+<tr>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">PECUARISTA</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">24kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">48 kg</td>
+  </tr>
+
+</table>
+
+Ou seja, o pecuarista produz tanto mais batata quanto mais carne.
+Porém mesmo nesse cenário, o comercio ainda faz sentido e vale mais a pena o agricultor focar em batatas e o pecuarista em carne (especialização).
+
+<table style="font-family: Arial, Helvetica, sans-serif; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;"></td>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" colspan="2">Agricultor</td>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" colspan="2">Pecuarista</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #ddd;"></td>
+    <td style=" background-color: #ccc; padding: 8px; border: 1px solid #ddd;">Carne</td>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">Batata</td>
+    <td style=" background-color: #ccc; padding: 8px; border: 1px solid #ddd;">Carne</td>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">Batata</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #ddd;">SEM COMÉRCIO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;" colspan="4"></td>
+  </tr>
+  <tr>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">PRODUÇÃO E CONSUMO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">4 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">16 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">12 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">24 kg</td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #ddd;">COM COMÉRCIO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;" colspan="4"></td>
+  </tr>
+  <tr>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">PRODUÇÃO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">0 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">32 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">18 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">12 kg</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ccc;  padding: 8px; border: 1px solid #ddd;">COMERCIO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Recebe 5KG</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Dá 15 KG</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Dá 5kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">Recebe 15KG</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ccc; padding: 8px; border: 1px solid #ddd;">CONSUMO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">5kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">17 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">13 kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">27 kg</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ccc; font-weight:bold;  padding: 8px; border: 1px solid #ddd;">AUMENTO NO CONSUMO</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">+1kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">+1kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">+1kg</td>
+    <td style="padding: 8px; border: 1px solid #ddd;">+3kg</td>
+  </tr>
+</table>
+
+Isto é melhor para ambos por que eles se especializam no que são melhores.
+
+Mas como é possível mesmo o pecuarista sendo melhor em ambas as produções, a especialização do agricultor aumentar a produção e beneficiar ambos? Isto será explicado na parte 3 sobre a fabula do estado da ilha.
 - - -
 
 **Referencias**
+
+[Por que a Inflação prejudica mais as classes mais pobres](https://www.youtube.com/watch?v=BiuLnl_8LRM&ab_channel=Jos%C3%A9Kobori)
 
 [Formação de capital e o aumento da produtividade](https://www.youtube.com/watch?v=Q20DGysgZ9A&ab_channel=Jos%C3%A9Kobori)
 
