@@ -34,6 +34,10 @@ O melhor mercador da ilha possui muitos barcos e quando um tem problema ele deci
 
 Comparando os custos de oportunidade, o melhor mercador está deixando de ganhar 400 moedas por hora para "economizar" 30 moedas pagando para arrumarem seu barco. Enquanto o outro mercador esta deixando de ganhar 10 para ganhar 15. Ou seja, mais vale para o melhor mercador focar no seu trabalho como mercador e pagar pelo serviço.
 
+Quando alguém se especializa em algo em que ela possui vantagem comparativa, a produção total da economia aumenta.
+
+O comercio pode beneficiar todos os membros da sociedade por que permite que as pessoas se especializem em atividades em que possuem uma vantagem comparativa.
+
 ----
 
 ### 2. Por que a produtividade é tão importante
