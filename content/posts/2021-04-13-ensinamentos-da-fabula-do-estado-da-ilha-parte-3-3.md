@@ -1,0 +1,88 @@
+---
+template: post
+title: Ensinamentos da Fabula do Estado da Ilha (Parte 3/3)
+slug: fabula-do-estado-da-ilha-3
+socialImage: /media/island.jpg
+draft: true
+date: 2021-04-13T00:35:07.908Z
+description: A fábula do estado da ilha é uma série de vídeos que explica de
+  forma simples como a economia funciona.  Criada por José Kobori - uma das
+  maiores referências em finanças no Brasil - explica conceitos basicos da
+  economia de uma forma lúdica.
+category: finanças
+tags:
+  - finanças
+  - economia
+  - inflação
+---
+### 1. Custo de Oportunidade e Vantagem Comparativa
+
+Mas como é possível mesmo o pecuarista sendo melhor em ambas as produções, a especialização do agricultor aumentar a produção e beneficiar ambos?
+
+Vamos explicar este egnima com alguns exemplos:
+
+Na ilha há um mercador - melhor negociador da ilha - que consegue lucrar 400 moedas por hora realizando operações de compra e venda. Existe um outro mercador - menos experiente - que consegue lucrar 10 moedas por hora - muito menos do que o anterior. Este então decidiu virar "mecanico" de barco e cobra 15 moedas por hora para arrumar os barcos. Geralmente costuma levar 2 horas no serviço - totalizando o custo de 30 moedas.
+
+O melhor mercador da ilha possui muitos barcos e quando um tem problema ele decide por conta própria arrumar, para "economizar" as 30 moedas. Ele consegue fazer o mesmo serviço em 1 hora, ou seja, ele é melhor em arrumar barcos também.
+
+**Conceito:** Vantagem Absoluta - A comparação entre produtores de um determinado bem levando em consideração sua produtividade.
+
+**Conceito:** Custo de oportunidade - Aquilo que abrimos mão para obter algum item
+
+**Conceito:** Vantagem Comparativa - A comparação entre os produtores de um item levando em consideração seus custos de oportunidade.
+
+
+Comparando os custos de oportunidade, o melhor mercador está deixando de ganhar 400 moedas por hora para "economizar" 30 moedas pagando para arrumarem seu barco. Enquanto o outro mercador esta deixando de ganhar 10 para ganhar 15. Ou seja, mais vale para o melhor mercador focar no seu trabalho como mercador e pagar pelo serviço.
+
+----
+
+### 2. Por que a produtividade é tão importante
+
+O padrão de vida de um país depende da sua capacidade de produzir bens e serviços. Vamos pensar em uma sociedade extremamente simples de somente 1 pessoa: a qualidade de vida dela irá depender da quantidade de produtos/serviços (coletar água, caçar animais, colher cocos, etc) que era produz.
+
+**Conceito:** Produtividade - Quantidade de bens e serviços que um trabalhador pode produzir por cada hora de trabalho.
+
+Vamos pensar no caso da sociedade com somente 1 pessoa: se ela aumentar a sua produtividade - encontrando um melhor local para pescar por exemplo - ela poderá usar mais tempo para descansar ou para fazer suas roupas por exemplo.
+
+Porém existem outros determinantes da produtividade:
+
+<table style="font-family: Arial, Helvetica, sans-serif; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" >Capital Físico (Ferramentas)</td>
+    <td style="padding: 8px; background-color: #fff; border: 1px solid #ddd;" >Vara de pescar</td>
+  </tr>
+
+  <tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" >Capital Humano (Educação/Experiencia/Treinamento)</td>
+    <td style="padding: 8px; background-color: #fff; border: 1px solid #ddd;" >Treinamento</td>
+  </tr>
+
+  <tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" >Recursos Naturais (O que a natureza nos proporciona)</td>
+    <td style="padding: 8px; background-color: #fff; border: 1px solid #ddd;" >Abundância de peixes</td>
+  </tr>
+
+  <tr>
+    <td style="padding: 8px; background-color: #f2f2f2; border: 1px solid #ddd;" >Conhecimento Tecnológico</td>
+    <td style="padding: 8px; background-color: #fff; border: 1px solid #ddd;" >Criação de uma isca melhor</td>
+  </tr>
+<tr>
+
+</tr>
+
+
+
+</table>
+
+
+
+É importante enfatizar que os recursos naturais não são um requerimento para ser produtivo. Como exemplo temos a ilha do oriente, que não possui recursos naturais porém possuem a tecnologia (conhecimento) para produzir a melhor vara de pescar. Sendo assim, o estado do norte importa as varas de pescar da ilha do oriente.
+
+
+
+- - -
+
+**Referencias**
+
+[Custo de Oportunidade e Vantagem Comparativa](https://www.youtube.com/watch?v=wnE2xzpvo84&list=PLHIDz2SDupQdM6nRzEn1BiWecX82MkWgP&index=8&ab_channel=Jos%C3%A9Kobori)
+[Por que a produtividade é tão importante](https://www.youtube.com/watch?v=eEapFxUmi7Q&ab_channel=Jos%C3%A9Kobori)
