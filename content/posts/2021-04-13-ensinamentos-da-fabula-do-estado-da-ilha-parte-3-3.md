@@ -3,7 +3,7 @@ template: post
 title: Ensinamentos da Fabula do Estado da Ilha (Parte 3/3)
 slug: fabula-do-estado-da-ilha-3
 socialImage: /media/island.jpg
-draft: true
+draft: false
 date: 2021-04-13T00:35:07.908Z
 description: A fábula do estado da ilha é uma série de vídeos que explica de
   forma simples como a economia funciona.  Criada por José Kobori - uma das
@@ -31,14 +31,13 @@ O melhor mercador da ilha possui muitos barcos e quando um tem problema ele deci
 
 **Conceito:** Vantagem Comparativa - A comparação entre os produtores de um item levando em consideração seus custos de oportunidade.
 
-
 Comparando os custos de oportunidade, o melhor mercador está deixando de ganhar 400 moedas por hora para "economizar" 30 moedas pagando para arrumarem seu barco. Enquanto o outro mercador esta deixando de ganhar 10 para ganhar 15. Ou seja, mais vale para o melhor mercador focar no seu trabalho como mercador e pagar pelo serviço.
 
 Quando alguém se especializa em algo em que ela possui vantagem comparativa, a produção total da economia aumenta.
 
 O comercio pode beneficiar todos os membros da sociedade por que permite que as pessoas se especializem em atividades em que possuem uma vantagem comparativa.
 
-----
+- - -
 
 ### 2. Por que a produtividade é tão importante
 
@@ -74,19 +73,36 @@ Porém existem outros determinantes da produtividade:
 
 </tr>
 
-
-
 </table>
-
-
 
 É importante enfatizar que os recursos naturais não são um requerimento para ser produtivo. Como exemplo temos a ilha do oriente, que não possui recursos naturais porém possuem a tecnologia (conhecimento) para produzir a melhor vara de pescar. Sendo assim, o estado do norte importa as varas de pescar da ilha do oriente.
 
+- - -
 
+### 3. A Poupança propicia o acumulo de capital em uma economia
+
+Vamos primeiro nos recordas dos fatores de produção:
+
+* Terra - Recursos naturais
+* Capital - Fator de produção produzido (vara de pesca, escada, etc)
+* Trabalho - Capital humano (educação)
+
+Quanto maior o estoque de capital de uma sociedade mais ela poderá produzir bens e serviços. Ou seja, para aumentar a produtividade futura é necessário investir os recursos correntes na produção de capital.
+
+> **Conceito: Tradeoff**
+>
+> Representa um conflito de escolha, é uma decisão onde você precisa abrir mão de uma coisa em função de outra
+
+A poupança como já vimos antes, é a alocação de consumo no tempo. Se abster de consumir no presente para consumir melhor e mais no futuro.
+
+A poupança gera investimento, que gera acumulação de capital, que gera crescimento economico e no futuro todos consomem mais e melhor.
 
 - - -
 
 **Referencias**
 
 [Custo de Oportunidade e Vantagem Comparativa](https://www.youtube.com/watch?v=wnE2xzpvo84&list=PLHIDz2SDupQdM6nRzEn1BiWecX82MkWgP&index=8&ab_channel=Jos%C3%A9Kobori)
+
 [Por que a produtividade é tão importante](https://www.youtube.com/watch?v=eEapFxUmi7Q&ab_channel=Jos%C3%A9Kobori)
+
+[A Poupança propicia o acumulo de capital em uma economia](https://www.youtube.com/watch?v=EXFtzHUvi00&ab_channel=Jos%C3%A9Kobori)
