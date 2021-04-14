@@ -27,7 +27,7 @@ Silvia investiu na poupança e Mary em ações. Nos primeiros anos, Mary perdeu 
 
 ##### O 1º AXIOMA MENOR
 
-Só aposte o que valer a pena. Apostar valores pequenos não vai lher deixar rico. É claro que não se deve apostar tudo a ponto de ficar falido, mas sim a níveis que valham a pena.
+Só aposte o que valer a pena. Apostar valores pequenos não vai lhe deixar rico. É claro que não se deve apostar tudo a ponto de ficar falido, mas sim a níveis que valham a pena.
 
 ##### O 2º AXIOMA MENOR
 
