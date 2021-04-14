@@ -21,7 +21,7 @@ Neste final de semana, 10 de junho de 2018 (sim, este artigo foi escrito a quase
 
 Dentre as palestras, uma me chamou atenção, que foi a do Vinicius Campitelli (@vcampitelli) sobre o Libsodium, uma biblioteca de criptografia, que a partir do PHP 7.2 é implementada no core da linguagem. Esta biblioteca possui várias vantagens, devido a ser moderna, fácil de usar para encriptar e decriptar, construir hash de password, entre outras funções. Não vou entrar em detalhes sobre essa biblioteca, mas quem tiver mais curiosidade, pode dar uma olhada sobre ela clicando [aqui](https://paragonie.com/book/pecl-libsodium/read/00-intro.md).
 
-É muito comum na área de tecnologia ouvirmos pessoas comentando sobre conceitos como criptografia e hash, porém muitas pessoas - mesmo profissionais da área - não sabem exatamente a diferença. Além disso, outras pessoas que não são da área acabam escutando esses conceitos e não possuem idéia do que significa. A idéia deste simples artigo é explicar de uma maneira simples o que é cada um.
+É muito comum na área de tecnologia ouvirmos pessoas comentando sobre conceitos como criptografia e hash, porém muitas pessoas - mesmo profissionais da área - não sabem exatamente a diferença. Além disso, outras pessoas que não são da área acabam escutando esses conceitos e não possuem ideia do que significa. A ideia deste simples artigo é explicar de uma maneira simples o que é cada um.
 
 ### Criptografia
 
