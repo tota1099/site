@@ -18,7 +18,7 @@ tags:
 
 "Só se pode confiar num palpite que possa ser explicado."
 
-Muitas vezes temos intuições do que é o certo a se fazer. Não devemos ignora-lás pois nosso subconciente pode ter descoberto algo que não sabemos ainda. Porém temos que tomar cuidado, a intuição pode estar incorreta.
+Muitas vezes temos intuições do que é o certo a se fazer. Não devemos ignorar, pois nosso subconciente pode ter descobrido algo que não sabemos ainda. Porém, temos que tomar cuidado, a intuição pode estar incorreta.
 
 Quando lhe ocorrer alguma intuição, tome cuidado! Uma intuição errado pode ser muito perigosa, por isso é importante testa-lá, se você tem conhecimento sobre o assunto, se você sabe o bastante a respeito, etc.
 
@@ -28,7 +28,7 @@ Jamais confunda palpite com esperança.
 
 Quando algo é muito desejado, nossa mente passa a acreditar que tal fato acontecerá. Desta maneira, é comum que palpites infundados se tornem esperanças infundadas.
 
-Exemplo: Comprar um quadro de um artista desconhecido. Você tem a intuição de que algum dia ele irá ficar famoso. Com o tempo isso não acontece, porém você continua alimentando esperanças.
+Exemplo: Comprar um quadro de um artista desconhecido. Você tem a intuição de que algum dia ele irá ficar famoso. Com o tempo isso não acontece, porém, você continua alimentando esperanças.
 
 ----
 
@@ -36,7 +36,7 @@ Exemplo: Comprar um quadro de um artista desconhecido. Você tem a intuição de
 
 "É improvável que entre os desígnios de Deus para o Universo se inclua o de você ficar rico."
 
-Apoiar-se no sobrenatural, é como se apoiar em ilusões de ordem, se depende de Deus, ou de qualquer força ou entidade para alcançar a fortuna, há grandes chances de que um dia você baixe a guarda e perca tudo.
+Apoiar-se no sobrenatural, é como se apoiar em ilusões de ordem, se depende de Deus, ou de qualquer força, ou entidade para alcançar a fortuna, há grandes chances de que um dia você baixe a guarda e perca tudo.
 
 ##### 12º AXIOMA MENOR
 
@@ -48,7 +48,7 @@ Esse axioma é autoexplicativo. Você já viu algum desses gurus ricos?
 
 Não é necessário exorcizar uma supertição. Podemos curti-la, desde que ela conheça o seu lugar.
 
-Você não precisa exorcizar sua superstição, mas pode sim utilizá-la para outros fins, como jogos em que a somente a sorte é o que conta, como exemplo citado, o jogo do bicho, mas não invista dinheiro baseado em superstições.
+Você não precisa exorcizar sua superstição, mas pode sim, utilizá-la para outros fins, como jogos em que a somente a sorte é o que conta, como exemplo citado, o jogo do bicho, mas não invista dinheiro baseado em superstições.
 
 ----
 
