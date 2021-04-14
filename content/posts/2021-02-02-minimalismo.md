@@ -40,17 +40,17 @@ Esses itens precisam ter um local de destaque em sua casa, já que você gosta t
 
 ### **Coisas inúteis / repetidas / desnecessárias**
 
-Os itens que não entram nas 2 categorias anteriores. Normalmente itens que possuímos memória afetiva e que não queremos nos livrar. Sabe aqueles brinquedos que você tinha quando criança e que guardou eles até hoje? Você possivelmente guarda por que ele traz uma boa lembrança.. porém realmente precisa guardar todos os brinquedos? Talvez faça mais sentido guardar um brinquedo específico que lhe traz todas as lembranças.
+São os itens que não entram nas 2 categorias anteriores. Normalmente é um item que possuímos memória afetiva e que não queremos nos livrar deles. Sabe aqueles brinquedos que você tinha quando criança e que guardou eles até hoje? Você possivelmente guarda por que ele traz uma boa lembrança.. porém realmente precisa guardar todos os brinquedos? Talvez faça mais sentido guardar um brinquedo específico que lhe traz todas as lembranças.
 
 Outro exemplo são lembranças de viagens: Você precisa mesmo cada viagem comprar algum item para "provar" que você esteve lá? Particularmente falando eu ainda tenho alguns itens de viagens que eu fiz que não uso e que ficam guardados e sei o quanto é difícil desapegar deles, porém é necessário.
 
 ## Práticas do Minimalismo
 
-Para se ter uma vida minimalista e se manter sempre com coisas essencias, geralmente segue-se algumas boas práticas. Abaixo irei citar algumas práticas que **EU** particularmente sigo:
+Para se ter uma vida minimalista e se manter sempre com coisas essências, geralmente segue-se algumas boas práticas. Abaixo irei citar algumas práticas que **EU** particularmente sigo:
 
 ### Doação
 
-Desde pequeno fui ensinado pela minha mãe a doar minhas roupas para pessoas que necessitam mais. Hoje em dia com o minimalismo, continuo com a prática e tenho uma regra fixa de que sempre que ganho alguma roupa, acaba doando o mesmo número ou mais.
+Desde pequeno fui ensinado pela minha mãe a doar minhas roupas para pessoas que necessitam mais. Hoje em dia com o minimalismo, contínuo com a prática e tenho uma regra fixa de que sempre que ganho alguma roupa, acaba doando o mesmo número ou mais.
 
 **Prática:** Sempre que ganhar alguma roupa, doe outra.
 
@@ -70,7 +70,7 @@ Um exemplo simples de minimalismo é o spam do e-mail. Conheço pessoas que recl
 
 ### Qualidade é o segredo
 
-Já vi pessoas no passado comemorando que compraram 3 tênis por R$ 100,00 (essa pessoa sou eu), mas depois reclamando por que os tênis eram desconfortáveis e estragaram rápido. Hoje aprendi que o barato as vezes sai caro, então prefiro ter pouquíssimos tênis porém confortáveis e de boa qualidade, que sei que durarão por anos.
+Já vi pessoas no passado comemorando que compraram 3 tênis por R$ 100,00 (essa pessoa sou eu), mas depois reclamando por que os tênis eram desconfortáveis e estragaram rápido. Hoje aprendi que o barato as vezes saem caro, então prefiro ter pouquíssimos tênis porém confortáveis e de boa qualidade, que sei que durarão por anos.
 
 **Prática:** Evita comprar coisas de qualidade duvidosa por que são baratas. Pague um pouco mais caro mas saia com um produto com boa qualidade.
 
