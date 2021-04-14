@@ -14,7 +14,7 @@ tags:
   - finanças
   - axiomas-de-zurique
 ---
-#### O 9º GRANDE AXIOMA: DA OTIMISMO E DO PESSIMISMO
+#### O 9º GRANDE AXIOMA: DO OTIMISMO E DO PESSIMISMO
 
 
 
@@ -35,14 +35,14 @@ Deve-se tomar muito cuidado com o otimismo, pois ele pode ser perigoso. Quando e
 
 "Fuja da opinião da maioria, provavelmente está errada."
 
-Temos que ter ciência de que nem sempre a maioria tem razão e que é mais provável poucos estarem certos do que muitos. Não se deixe influenciar pela manada, racione por você mesmo, questione, estude, examine e questione velhos conceitos.
+Temos que ter ciência de que nem sempre a maioria tem razão e que é provável poucos estarem certos que muitos. Não se deixe influenciar pela manada, racione por você mesmo, questione, estude, examine e questione velhos conceitos.
 
 
 ##### 14º AXIOMA MENOR
 
-Jamais embarque nas especulações da moda com frequência, a melhor hora de se comprar alguma coisa é quando ninguém quer.
+Jamais embarque nas especulações da moda com frequência, a melhor hora de se comprar algo é quando ninguém quer.
 
-Quando muita gente quer comprar algo, o preço tende a subir devido a alta demanda. Quando ninguém quer, geralmente o preço diminui para que seja possível executar a venda.
+Quando muita gente quer comprar algo, o preço tende a subir devido à alta demanda. Quando ninguém quer, geralmente o preço diminui para que seja possível executar a venda.
 
 ----
 
