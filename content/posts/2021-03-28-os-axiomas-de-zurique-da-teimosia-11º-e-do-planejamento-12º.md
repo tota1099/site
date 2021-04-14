@@ -19,13 +19,13 @@ tags:
 
 "Se não deu certo da primeira vez, esqueça."
 
-No mundo das especulações, temos que tomar cuidado com a persistência. Por exemplo, Não fique persistindo em uma empresa que você perdeu dinheiro achando que ela te deve alguma coisa. Se você tem um negócio melhor, caia forá e vá para o outro negócio. 
+No mundo das especulações, temos que tomar cuidado com a persistência. Por exemplo, não fique persistindo em uma empresa que você perdeu dinheiro pensando que ela te deve algo. Se você tem um negócio melhor, caia forá e vá para o outro negócio. 
 
 ##### 15º AXIOMA MENOR
 
 Jamais tente salvar um mau investimento fazendo "preço médio".
 
-Existe uma técnica chamada "preço médio" e ela é uma armadilha tentadora. Ela funciona da seguinte forma: Se você compra uma ação a 100,00 e ela baixou para 50, basta você comprar outra, e o seu preço médio irá ser 75 ((100 + 50) / 2). Excelente. Só que não! Isso não diminui a sua perda, mas sim cria uma ilusão aparente, o que pode causar maior perda ainda. Você continuou com a mesma perda.
+Existe uma técnica chamada "preço médio" e ela é uma armadilha tentadora. Ela funciona da seguinte forma: se você compra uma ação a 100,00 e ela baixou para 50, basta você comprar outra, e o seu preço médio irá ser 75 ((100 + 50) / 2). Excelente. Só que não! Isso não diminui a sua perda, mas sim cria uma ilusão aparente, o que pode causar maior perda ainda. Você continuou com a mesma perda.
 
 - - -
 
@@ -39,13 +39,13 @@ Existe uma técnica chamada "preço médio" e ela é uma armadilha tentadora. El
 
 Fuja de investimentos a longo prazo.
 
-Você não tem como saber o que vai acontecer amanhã porém tem grande probabilidade de acertar, pois de um dia para o outro dificilmente irá ter muita mudança. Se passarmos para 1 semana, isso já fica menos provável. 1 mês é imprevisivel. Tendo isso em mente, por que você iria investir pensando em 20/30 anos? 
+Você não tem como saber o que vai acontecer amanhã, porém tem grande probabilidade de acertar, pois, de um dia para o outro dificilmente irá ter muita mudança. Se passarmos para 1 semana, isso já fica menos provável. 1 mês é imprevisivel. Tendo isso em mente, por que você iria investir pensando em 20/30 anos? 
 
 - - -
 
 #### Conclusão
 
-Este livro é essencial para quem está inicialmente nos mundos do investimentos. Ele dá dicas muito importantes para o dia a dia e mostra que o mundo dos investimentos não é uma maravilha. Ele requer dedicação, disciplina, e muito cuidado com as armadilhas existentes no mercado. Não existe ganho gigantescos de forma fácil.
+Este livro é essencial para quem está inicialmente nos mundos dos investimentos. Ele dá dicas muito importantes para o dia a dia e mostra que o mundo dos investimentos não é uma maravilha. Ele requer dedicação, disciplina, e muito cuidado com as armadilhas existentes no mercado. Não existe ganhos gigantescos de forma fácil.
 
 - - -
 
