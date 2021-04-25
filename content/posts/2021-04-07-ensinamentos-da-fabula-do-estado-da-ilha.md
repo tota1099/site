@@ -21,9 +21,9 @@ A fábula do estado da ilha é uma série de vídeos que explica de forma simple
 
 ### 1. Conceitos Básicos
 
-Iremos chamar de **Estado da ilha**. Ela possui 100 habitantes. Alguns são pescadores, alguns colhem banana, outros fazem canoas, etc. Atualmente ela não possui uma moeda, então as compras são feitas por escambo. Troca banana por peixe, etc;
+Iremos chamar de **Estado da ilha**. Ela possui 100 habitantes. Alguns são pescadores, alguns colhem banana, outros fazem canoas, etc. Atualmente não possui uma moeda, então as compras são feitas por escambo. Troca banana por peixe, etc.
 
-Vendo a necessidade da criação de um estado para que exista, por exemplo a  garantia da propriedade privada, serviços de segurança e saúde, é oficialmente criado o estado. É eleito um presidente (Executivo), um juiz (Judiciário) para e 3 pessoas para criar as regras (Legislativo). Além disso, é criado uma moeda para o estado, que iremos chamar de unidade da pedra.
+Vendo a necessidade da criação de um estado para existir, por exemplo, a  garantia da propriedade privada, serviços de segurança e saúde, é oficialmente criado o estado. É eleito um presidente (Executivo), um juiz (Judiciário) para e 3 pessoas para criar as regras (Legislativo). Além disso, é criado uma moeda para o estado, que iremos chamar de unidade da pedra.
 
 São emitidas então as moedas na mesma proporção da produção interna da ilha (PIB). Se a ilha produzia 100 bananas e 50 peixes, por exemplo, foram produzidas 150 pedras.
 
@@ -60,19 +60,19 @@ Conforme a ilha vai evoluindo, novas profissões são criadas. Por exemplo, ante
 
 Assim surgiu serviços de transportes para levar os produtos para o mercado, por exemplo (fornecedores), entre outros serviços. Estes novos negócios aumentaram a produção da ilha.
 
-O governo então ve uma oportunidade de criar um serviço público para proteger a parte ambiental da ilha. Cria-se cargos como policia ambiental e adicionam mais juizes para facilitar o atendimento das leis. Com isso o governo aumenta suas despesas, porém não aumentou sua arrecadação.
+O governo então vê uma oportunidade de criar um serviço público para proteger a parte ambiental da ilha. Cria-se cargos como polícia ambiental e adicionam mais juízes para facilitar o atendimento das leis. Com isso o governo aumenta suas despesas, porém não aumentou sua arrecadação.
 
-**Conceito:** Déficit Público é o nome que se dá à relação na qual o valor total das despesas públicas é maior que valor total das receitas públicas.
+**Conceito:** Deficit Público é o nome que se dá à relação na qual o valor total das despesas públicas é maior que valor total das receitas públicas.
 
-**Conceito:** Déficit primário - quando as despesas com juros e correção monetária são excluídas do cálculo do déficit;
+**Conceito:** Deficit primário - quando as despesas com juros e correção monetária são excluídas do cálculo do deficit;
 
-O governo está com déficit nas suas contas e resolve aumentar mais ainda seus impostos: o mercado que antes trabalhava com lucro, agora está pagando muito impostos e não está lucrando. Decide então parar de comprar do fornecedor e comprar diretamente do produtor. A empresa fornecedora precisa ser fechada. O mercado demite alguns funcionarios. Uma crise inicia-se.
+O governo está com deficit nas suas contas e resolve aumentar mais ainda seus impostos: o mercado que antes trabalhava com lucro, agora está pagando muito impostos e não está lucrando. Decide então parar de comprar do fornecedor e comprar diretamente do produtor. A empresa fornecedora precisa ser fechada. O mercado demite alguns funcionários. Uma crise inicia-se.
 
-> **Conceito: Recessão economica**
+> **Conceito: Recessão econômica**
 >
 > O conceito de recessão econômica é dado quando a economia de um país se contrai. Mais precisamente, quando o produto interno bruto (PIB) para de crescer e começa a cair.
 
-**IMPORTANTE!** Você percebu que em nenhum momento o estado diminuiu? Em nenhum momento na crise o estado "sofreu" com os problemas da crise.
+**IMPORTANTE!** Você percebeu que em nenhum momento o estado diminuiu? Em nenhum momento na crise o estado "sofreu" com os problemas da crise.
 
 - - -
 
@@ -80,9 +80,9 @@ O governo está com déficit nas suas contas e resolve aumentar mais ainda seus 
 
 A ilha estava sofrendo com a crise.. altos juros e pouco poder de compra. Até que, um barco com pessoas de outra ilha (Estado do norte) apareceram nesta ilha.
 
-Vendo oportunidades na crise, pessoas do estado do norte trouxeram bananas para vender na ilha e aceitarão a moeda da ilha. 1 banana = 1 pedra; um ponto interessante é que no estado do norte 1 cobre compra 6 bananas.
+Vendo oportunidades na crise, pessoas do estado do norte trouxeram bananas para vender na ilha e aceitarão a moeda da ilha. O preço era de 1 banana por 1 pedra; um ponto interessante é que no estado do norte 1 cobre compra 6 bananas.
 
-Alguns dias atras, o povo do estado da ilha decido ir para o estado do norte para conhecer. Chegando lá se interessam por produtos, porém eles não tinham cobre. Foram então aos comerciantes que receberam a pedra na venda das bananas e fizeram a troca entre pedras e cobre. A taxa de câmbio foi de 6 pedras por 1 cobre, devido a 6 pedras possuir o mesmo poder de compra que 1 cobre.
+Alguns dias atrás, o povo do estado da ilha decido ir para o estado do norte para conhecer. Chegando lá se interessam por produtos, porém eles não tinham cobre. Foram então aos comerciantes que receberam a pedra na venda das bananas e fizeram a troca entre pedras e cobre. A taxa de câmbio foi de 6 pedras por 1 cobre, devido a 6 pedras possuir o mesmo poder de compra que 1 cobre.
 
 **Conceito:** A taxa de câmbio - é uma relação entre moedas de dois países que resulta no preço de uma delas medidas em relação à outra. 
 
