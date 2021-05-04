@@ -21,7 +21,7 @@ Geralmente escolher uma empresa para investir não é uma tarefa fácil, mas par
 
 Este indicador fundamentalista mede a capacidade de uma empresa agregar valor a ela mesma usando seus próprios recursos.
 
-#### Fórmula:
+#### Fórmula
 
 ROE = (Lucro Líquido / Patrimônio Líquido) * 100
 
@@ -42,7 +42,7 @@ Na prática, o ROE é importante na comparação de duas empresas, “X” e “
 
 Este indicador fundamentalista mede a rentabilidade e capacidade de geração de lucro total de um ativo dentro de uma companhia.
 
-#### Fórmula:
+#### Fórmula
 
 ROA = (Lucro Líquido / Ativo Total ) * 100
 
@@ -53,13 +53,54 @@ Empresa CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA (TRPL4) no ano de 20
 Lucro Líquido: 3.559 Milhões
 Ativo Total: 26.505 Milhões
 
-ROA= (3.559 Lucro Líquido / 26.505 Ativo Total) * 100 = 13,42%
+ROA = (3.559 Lucro Líquido / 26.505 Ativo Total) * 100 = 13,42%
 
 Comparando duas empresas, “X” e “Y”, caso a primeira apresente um ROE mais elevado do que o de sua concorrente, é possível afirmar que a empresa “X” tem maior lucro em relação a seu patrimônio líquido.
 
 ----
 
+### ROIC - Retorno sobre o capital investido (Return Over Invested Capital)
+
+Este indicador fundamentalista mede quanto dinheiro uma empresa consegue gerar em razão do capital investido. Essa métrica considera tanto o capital próprio da empresa, como empréstimos e de terceiros.
+
+#### Fórmula
+
+ROIC = EBIT / Valor contábil
+
+#### Exemplo
+
+Empresa CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA (TRPL4) no ano de 2020:
+
+EBIT: 4.427 Milhões
+
+Valor Contábil do Capital Investido: R$80 milhões
+
+ROIC = (4.427 M / 2.858 M) * 100 = 19,25%
+
+----
+
+### ROI - Retorno sobre o investimento (Return Over Invested Capital)
+
+### Formula
+
+ROI = (Receita - Custo) / Custo
+
+####
+
+Vamos supor que você queira investir em um negócio e o aporte inicial seja R$50.000,00. Em um ano, o seu investimento traz de retorno para você R$100.000,00 de volta, ou seja:
+
+
+ROI= 100.000 – 50.000/50.000 x 100
+
+ROI = 1 x 100: 100%
+
+
+----
+
 https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/roe-roi-roic-roa-e-wacc-conheca-alguns-dos-principais-fundamentos-para-analisar-uma-empresa/
 https://statusinvest.com.br/termos/r/roe
+https://statusinvest.com.br/termos/r/roi
+https://statusinvest.com.br/termos/r/roa
 https://statusinvest.com.br/acoes/trpl4
+https://www.onze.com.br/blog/roic-o-que-e-e-como-calcular-esse-indicador/
 
