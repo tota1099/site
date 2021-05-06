@@ -36,6 +36,8 @@ ROE = (3.559 Lucro Líquido / 13.307 Patrimônio Líquido) * 100 = 26,74%
 
 Na prática, o ROE é importante na comparação de duas empresas, “X” e “Y”, pois caso a primeira apresente um ROE mais elevado do que o de sua concorrente, é possível afirmar que a empresa “X” tem maior lucro em relação a seu patrimônio líquido. Essa comparação é justa pois uma empresa que possui um patrimônio de 50 bilhões por exemplo tenderá a ter muito mais lucro do que uma que tem 10 bilhões, porém essa análise leva em conta a lucratividade comparadado ao seu patrimônio líquido, se tornando mais justa a comparação.
 
+Posso mascarar fazendo dívida
+
 ----
 
 ### ROA - Retorno sobre o ativo (Return on Asset)
@@ -57,6 +59,8 @@ ROA = (3.559 Lucro Líquido / 26.505 Ativo Total) * 100 = 13,42%
 
 Comparando duas empresas, “X” e “Y”, caso a primeira apresente um ROE mais elevado do que o de sua concorrente, é possível afirmar que a empresa “X” tem maior lucro em relação a seu patrimônio líquido.
 
+Posso mascarar fazendo dívida
+
 ----
 
 ### ROIC - Retorno sobre o capital investido (Return Over Invested Capital)
@@ -71,11 +75,13 @@ ROIC = EBIT / Valor contábil
 
 Empresa CTEEP - CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA (TRPL4) no ano de 2020:
 
-EBIT: 4.427 Milhões
+NOPAT/EBIT: 4.427 Milhões
 
 Valor Contábil do Capital Investido: R$80 milhões
 
 ROIC = (4.427 M / 2.858 M) * 100 = 19,25%
+
+Custo médio ponderado de capital - terá retorno mínimo para valer a pena?
 
 ----
 
