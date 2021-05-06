@@ -100,6 +100,7 @@ ROI= 100.000 – 50.000/50.000 x 100
 
 ROI = 1 x 100: 100%
 
+Desvantagem: não considera dívida/imposto, é muito simplório, é muito limitado na análise
 
 ----
 
