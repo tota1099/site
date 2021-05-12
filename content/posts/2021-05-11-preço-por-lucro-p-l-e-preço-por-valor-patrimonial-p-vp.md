@@ -23,7 +23,7 @@ Fórmula: P/L = Preço da Ação / Lucro por Ação
 P/L da CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA (TRPL4) (levando em consideração valores do dia 11/05/2021)
 
 Lucro Por Ação = 3.559,18 M último 12 meses / 658.883.304 ações
-P/L = 25,30 / 5,40 = 4,68
+P/L = 25,30 / 5,40 = 4,68 (tempo pra ela se pagar considerando os ultimos 12 meses)
 
 -----
 
@@ -42,4 +42,8 @@ P/VP da CIA TRANSMISSÃO ENERGIA ELÉTRICA PAULISTA (TRPL4) (levando em consider
 Valor Patrimonial = 13.307.781.000 / 658.883.304 = 20.19~
 
 P/VP = 25,3 / 20,19 = 1,25
+
+------
+
+P/L / P/VP = 4,68 / 1,25 = 3,74;
 
