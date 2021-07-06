@@ -1,0 +1,29 @@
+---
+template: post
+title: O que é uma moeda forte?
+slug: moeda-forte
+socialImage: /media/moeda.jpg
+draft: true
+date: 2021-07-05T23:34:32.212Z
+description: O que é uma moeda forte?
+category: Finanças
+tags:
+  - moeda
+  - finanças
+---
+Moeda forte é aquela emitida em um país estável, que consegue ao longo do tempo manter ou até mesmo aumentar o valor da sua moeda, mesmo em tempos de crises na econominia mundial. Além disto, uma moeda pode ser considerada forte por ser amplamente usada em negociações em outros países.
+
+Exemplos de moedas fortes são:
+
+USD - Dolar Americana
+
+A moeda emitida pelos Estados Unidos é utilizada como referência no mundo inteiro. Além dos Estados Unidos, a moeda “dólar americano” é a usada oficialmente também em outros países, como Timor-Leste, Equador, El Salvador, Panamá e Porto Rico. Mas ela é também a “moeda de referência monetária mundial”, isto é, aceita em quase todos os países do mundo para câmbio com a moeda do local.
+
+EUR - Euro
+
+Euro é a moeda oficial da zona Euro, qual é constituída por Alemanha, Áustria, Bélgica, Chipre, Eslováquia, Eslovénia, Espanha, Estónia, Finlândia, França, Grécia, Irlanda, Itália, Letónia, Lituânia, Luxemburgo, Malta, Países Baixos e Portugal. É uma moeda amplamente usada - considerando a quantidade de potências no mundo que utilizam ela.
+
+
+Quais são as vantagens de uma moeda forte?
+
+Para a economia do país há inúmeros benefícios. Um deles é a valorização da moeda que está sempre em alta e, mesmo em momentos de crise econômica – que podem resultar em uma queda de sua valorização, a moeda continua entre as mais fortes do mercado.
