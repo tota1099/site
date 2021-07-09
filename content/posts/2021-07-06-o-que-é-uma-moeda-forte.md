@@ -13,6 +13,9 @@ tags:
 ---
 Moeda forte é aquela emitida em um país estável, que consegue ao longo do tempo manter ou até mesmo aumentar o valor da sua moeda, mesmo em tempos de crises na econominia mundial. Além disto, uma moeda pode ser considerada forte por ser amplamente usada em negociações em outros países.
 
+Moeda forte - liquidez, paridade de moeda
+
+
 Exemplos de moedas fortes são:
 
 USD - Dolar Americana
