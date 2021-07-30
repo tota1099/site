@@ -17,3 +17,10 @@ Livro razão - Todo histórico de movimentações - público!
 Para validar o saldo, verifica todo o histórico.
 
 Mineiradores garantem a integridade do livro razão.
+
+21 milhões bitcoins existem
+
+- Descentralizada
+- Resistente á censura
+- Não é inflacionária e é escassa
+
