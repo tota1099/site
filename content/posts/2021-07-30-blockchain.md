@@ -37,3 +37,9 @@ PROOF OF STAKE - POS
 Esse protocolo consiste em algum minerador deixar sua criptomoedas no Blockchain, o que deixar por mais tempo e em maior volume, leva a comissão de transação.
 
 A “proof of stake” não é isenta de críticas. Devido ao pré-requisito de investimento de criptomoedas, aqueles com mais moedas terão a capacidade de participar. Essa concentração de riqueza poderia ser interpretada como outro impulso para a centralização
+
+DEFI
+
+smart contracts
+
+Empréstimo - inteligente, porém como manter a segurança/garantia?
