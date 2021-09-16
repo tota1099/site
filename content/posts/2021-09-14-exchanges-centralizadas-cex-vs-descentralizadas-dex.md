@@ -20,6 +20,8 @@ Porém essas facilidades possuem um preço: elas obrigam com que os usuários se
 
 **Exemplos de exchanges centralizadas**:  Binance, Coinbase Pro, Huobi Global, Kraken e Bithumb.
 
-----
+- - -
 
 ## Exchanges Descentralizadas - DEX
+
+É um mercado para criptomoedas ou investimentos em blockchain totalmente open-source. Ninguém está no controle de uma DEX, em vez disso, os compradores e os vendedores negociam entre si, é uma troca pessoa - pessoa.
