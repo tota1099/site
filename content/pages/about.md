@@ -1,6 +1,6 @@
 ---
-title: "About me"
+title: "Sobre"
 template: "page"
 ---
 
-Software developer and passionate about sports. Always in search of knowledge and new challenges, focused on solutions and personal development.
+Engenheiro de Software na RD Station. Sempre em busca de conhecimento e novos desafios!

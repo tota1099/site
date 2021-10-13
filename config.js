@@ -4,26 +4,26 @@ module.exports = {
   url: 'https://tota1099.github.io/site/',
   pathPrefix: '/',
   title: 'Renan Porto Blog',
-  subtitle: 'Software Engineer at SoftExpert - Software for Excellence',
-  copyright: '© All rights reserved.',
+  subtitle: 'Engenheiro de Sofgtware na RD Station',
+  copyright: '© 2021 Renan Porto',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'G-EE7M5S1D2K',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Sobre',
       path: '/pages/about'
     }
   ],
   author: {
     name: 'Renan Porto',
     photo: '/photo.jpg',
-    bio: 'Software Engineer at SoftExpert - Software for Excellence.',
+    bio: 'Engenheiro de Software na RD Station',
     contacts: {
       email: 'renan.porto1099@gmail.com',
       github: 'tota1099',
