@@ -28,7 +28,7 @@ module.exports = {
       email: 'renan.porto1099@gmail.com',
       github: 'tota1099',
       linkedin: 'renan-de-medeiros-porto',
-      instagram: 'porto1099',
+      instagram: 'rmp.renan',
       youtube: 'UCiuwjpnrQRsqeIKBo9PR_EQ',
       medium: 'renan-porto1099',
     }
