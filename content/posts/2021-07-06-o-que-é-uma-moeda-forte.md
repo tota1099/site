@@ -5,7 +5,10 @@ slug: moeda-forte
 socialImage: /media/moeda.jpg
 draft: false
 date: 2022-09-02T21:04:03.140Z
-description: O que é uma moeda forte?
+description: Moeda forte é aquela emitida em um país estável, que consegue ao
+  longo do tempo manter ou até mesmo aumentar o valor da sua moeda, mesmo em
+  tempos de crises na econominia mundial. Além disto, uma moeda pode ser
+  considerada forte por ser amplamente usada em negociações em outros países.
 category: Finanças
 tags:
   - moeda
