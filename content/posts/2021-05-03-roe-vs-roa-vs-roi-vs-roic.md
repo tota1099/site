@@ -4,7 +4,7 @@ title: ROE vs ROA vs ROI vs ROIC
 slug: roe-roa-roi-roic
 socialImage: /media/investiments.jpeg
 draft: false
-date: 2021-05-03T22:55:47.930Z
+date: 2022-06-18T22:55:47.930Z
 description: "Você já deve ter ouvido falar nessas siglas: ROE, ROA, ROI e ROIC.
   Mas afinal, o que significa cada uma delas? Para que servem? Onde vivem? Do
   que se alimentam? Sexta, no globo reporter!! Brincadeiras a parte, a ideia
