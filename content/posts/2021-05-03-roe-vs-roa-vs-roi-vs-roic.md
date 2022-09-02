@@ -3,7 +3,7 @@ template: post
 title: ROE vs ROA vs ROI vs ROIC
 slug: roe-roa-roi-roic
 socialImage: /media/investiments.jpeg
-draft: true
+draft: false
 date: 2021-05-03T22:55:47.930Z
 description: "Você já deve ter ouvido falar nessas siglas: ROE, ROA, ROI e ROIC.
   Mas afinal, o que significa cada uma delas? Para que servem? Onde vivem? Do
@@ -38,7 +38,7 @@ Na prática, o ROE é importante na comparação de duas empresas, “X” e “
 
 Posso mascarar fazendo dívida
 
-----
+- - -
 
 ### ROA - Retorno sobre o ativo (Return on Asset)
 
@@ -61,7 +61,7 @@ Comparando duas empresas, “X” e “Y”, caso a primeira apresente um ROE ma
 
 Posso mascarar fazendo dívida
 
-----
+- - -
 
 ### ROIC - Retorno sobre o capital investido (Return Over Invested Capital)
 
@@ -79,11 +79,12 @@ NOPAT/EBIT: 4.427 Milhões
 
 Valor Contábil do Capital Investido: R$80 milhões
 
-ROIC = (4.427 M / 2.858 M) * 100 = 19,25%
+ROIC = (4.427 M / 2.858 M
+) * 100 = 19,25%
 
 Custo médio ponderado de capital - terá retorno mínimo para valer a pena?
 
-----
+- - -
 
 ### ROI - Retorno sobre o investimento (Return Over Invested Capital)
 
@@ -91,23 +92,10 @@ Custo médio ponderado de capital - terá retorno mínimo para valer a pena?
 
 ROI = (Receita - Custo) / Custo
 
-####
-
 Vamos supor que você queira investir em um negócio e o aporte inicial seja R$50.000,00. Em um ano, o seu investimento traz de retorno para você R$100.000,00 de volta, ou seja:
-
 
 ROI= 100.000 – 50.000/50.000 x 100
 
 ROI = 1 x 100: 100%
 
-Desvantagem: não considera dívida/imposto, é muito simplório, é muito limitado na análise
-
-----
-
-https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/roe-roi-roic-roa-e-wacc-conheca-alguns-dos-principais-fundamentos-para-analisar-uma-empresa/
-https://statusinvest.com.br/termos/r/roe
-https://statusinvest.com.br/termos/r/roi
-https://statusinvest.com.br/termos/r/roa
-https://statusinvest.com.br/acoes/trpl4
-https://www.onze.com.br/blog/roic-o-que-e-e-como-calcular-esse-indicador/
-
+Desvantagem: não considera dívida/imposto, é muito simplório, é muito limitado na análise=
