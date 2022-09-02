@@ -4,7 +4,7 @@ title: O que é uma moeda forte?
 slug: moeda-forte
 socialImage: /media/moeda.jpg
 draft: false
-date: 2021-07-05T23:34:32.212Z
+date: 2022-09-02T21:04:03.140Z
 description: O que é uma moeda forte?
 category: Finanças
 tags:
