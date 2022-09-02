@@ -5,7 +5,9 @@ slug: pl-pvp
 socialImage: /media/investiments.jpeg
 draft: false
 date: 2021-05-11T22:08:28.896Z
-description: desc
+description: Cada vez mais é importante sabermos como analisar uma empresa.
+  Nesta artigo, explico a diferença entre preço lucro e preço pelo valor
+  patrimonial.
 category: finanças
 tags:
   - finanças
