@@ -5,7 +5,8 @@ slug: cex-vs-dex
 socialImage: /media/can.jpeg
 draft: true
 date: 2021-09-14T19:47:16.859Z
-description: test
+description: A ideia é explicar o conceito básico de Exchange centralizada e
+  Exchange descentralizada.
 category: crypto
 tags:
   - crypto
