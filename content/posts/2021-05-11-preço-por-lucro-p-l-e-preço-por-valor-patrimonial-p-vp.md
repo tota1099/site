@@ -4,7 +4,7 @@ title: Preço por Lucro (P/L) e Preço por Valor Patrimonial (P/VP)
 slug: pl-pvp
 socialImage: /media/investiments.jpeg
 draft: false
-date: 2021-05-11T22:08:28.896Z
+date: 2022-04-16T22:08:28.896Z
 description: Cada vez mais é importante sabermos como analisar uma empresa.
   Nesta artigo, explico a diferença entre preço lucro e preço pelo valor
   patrimonial.
