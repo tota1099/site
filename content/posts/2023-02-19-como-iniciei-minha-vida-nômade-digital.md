@@ -2,7 +2,7 @@
 template: post
 title: O início de uma vida nômade
 slug: inicio-vida-nomade
-socialImage: /media/bikes.jpg
+socialImage: /media/img_0638.jpg
 draft: false
 date: 2023-02-19T21:18:09.247Z
 description: >-
@@ -19,11 +19,11 @@ tags:
 ---
 Desde 2014 estou atuando como desenvolvedor de software, e um dos maiores benefícios dessa profissão é a possibilidade de trabalhar de qualquer lugar no mundo! Juntando esse meu cenário profissional e meu gosto de viajar, a vida de nômade digital sempre me agradou!
 
-Então, chegou o final do ano de 2022 e aquele momento clichê de definir as metas para o próximo ano. Eu e a minha namorada decidimos então nosso objetivo: viver por 1 ano como nômades digitais! 
+Então, chegou o final do ano de 2022 e aquele momento clichê de definir as metas para o próximo ano. Eu e minha namorada decidimos então nosso objetivo: viver por 1 ano como nômades digitais! 
 
 ## Janeiro (Curitiba, PR, Brasil)
 
-O nosso primeiro destino foi Curitiba, por alguns motivos: somos de Florianópolis, Santa Catarina, e para iniciar, queríamos algum lugar legal porém ao mesmo tempo não tão longe para iniciar. Nós sabíamos que a primeira viagem iria ser cheia de aprendizados; iriamos levar mais roupas do que deveríamos, sentir falta da família, entre outros pontos.
+O nosso primeiro destino foi Curitiba, por alguns motivos: somos de Florianópolis, Santa Catarina, e para iniciar, queríamos algum lugar legal porém ao mesmo tempo não tão longe para iniciar. Sabíamos que a primeira viagem iria ser cheia de aprendizados; iriamos levar mais roupas do que deveríamos, sentir falta da família, entre outros pontos.
 
 Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e conhecemos todos os locais que tínhamos interesse nessa cidade. Além disso, conseguimos com calma, sentir como funciona a cidade de Curitiba, andar pela cidade sem compromisso e fazer passeios não comuns para turistas.
 
@@ -32,7 +32,7 @@ Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e con
 Utilizei 2 mochilas na viagem, sendo 1 mochilão de aproximadamente 50 litros.
 M﻿ochilas
 
-<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3.jpg" width="780" alt="Mochilas da viagem" >
+<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3.jpg" width="450" alt="Mochilas da viagem" >
 
 **Geral**
 
