@@ -26,3 +26,15 @@ Então, chegou o final do ano de 2022 e aquele momento clichê de definir as met
 O nosso primeiro destino foi Curitiba, por alguns motivos: somos de Florianópolis, Santa Catarina, e para iniciar, queríamos algum lugar legal porém ao mesmo tempo não tão longe para iniciar. Nós sabíamos que a primeira viagem iria ser cheia de aprendizados; iriamos levar mais roupas do que deveríamos, sentir falta da família, entre outros pontos.
 
 Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e conhecemos todos os locais que tínhamos interesse nessa cidade. Além disso, conseguimos com calma, sentir como funciona a cidade de Curitiba, andar pela cidade sem compromisso e fazer passeios não comuns para turistas.
+
+Segue abaixo algumas fotos dessa viagem! **E spoiler: o próximo destino é internacional!**
+
+![Bosque do alemão](/media/img_0638.jpg "Bosque do alemão")
+
+![Museu Oscar Niemeyer](/media/img_0601.jpg "Museu Oscar Niemeyer")
+
+![Hotel All You Need](/media/img_0516.jpg "Hotel All You Need")
+
+![Complexo Luxor](/media/img_1132.jpg "Complexo Luxor")
+
+![Curitiba de cima do hotel All you need](/media/img_0496.jpg "Curitiba de cima do hotel All you need")
