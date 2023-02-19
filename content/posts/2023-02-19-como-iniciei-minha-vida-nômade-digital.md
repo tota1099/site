@@ -32,7 +32,7 @@ Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e con
 Utilizei 2 mochilas na viagem, sendo 1 mochilão de aproximadamente 50 litros.
 M﻿ochilas
 
-<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3.jpg" width="90%" height="90%" alt="Mochilas da viagem" >
+<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3.jpg" width="auto" alt="Mochilas da viagem" >
 
 **Geral**
 
