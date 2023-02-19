@@ -27,7 +27,7 @@ O nosso primeiro destino foi Curitiba, por alguns motivos: somos de Florianópol
 
 Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e conhecemos todos os locais que tínhamos interesse nessa cidade. Além disso, conseguimos com calma, sentir como funciona a cidade de Curitiba, andar pela cidade sem compromisso e fazer passeios não comuns para turistas.
 
-Segue abaixo algumas fotos dessa viagem! **E spoiler: o próximo destino é internacional!**
+Segue abaixo algumas fotos dessa viagem! \*\*
 
 <img src="/media/img_0638.jpg" width="780" alt="Bosque do alemão" >
 
@@ -39,4 +39,4 @@ Segue abaixo algumas fotos dessa viagem! **E spoiler: o próximo destino é inte
 
 <img src="/media/img_0496.jpg" width="780" alt="Hotel All You Need" >
 
-![Complexo Luxor](/media/img_0496.jpg "Curitiba de cima do hotel All you need")
+Spoiler: o próximo destino é **internacional**!
