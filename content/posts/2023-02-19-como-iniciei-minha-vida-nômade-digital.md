@@ -1,6 +1,6 @@
 ---
 template: post
-title: Como iniciei minha vida nômade digital
+title: O início de uma vida nômade
 slug: inicio-vida-nomade
 socialImage: /media/bikes.jpg
 draft: false
@@ -26,6 +26,52 @@ Então, chegou o final do ano de 2022 e aquele momento clichê de definir as met
 O nosso primeiro destino foi Curitiba, por alguns motivos: somos de Florianópolis, Santa Catarina, e para iniciar, queríamos algum lugar legal porém ao mesmo tempo não tão longe para iniciar. Nós sabíamos que a primeira viagem iria ser cheia de aprendizados; iriamos levar mais roupas do que deveríamos, sentir falta da família, entre outros pontos.
 
 Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e conhecemos todos os locais que tínhamos interesse nessa cidade. Além disso, conseguimos com calma, sentir como funciona a cidade de Curitiba, andar pela cidade sem compromisso e fazer passeios não comuns para turistas.
+
+### O que levamos na viagem
+
+Utilizei 2 mochilas na viagem, sendo 1 mochilão de aproximadamente 50 litros.
+M﻿ochilas
+
+<img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3.jpg" width="780" alt="Mochilas da viagem" >
+
+**Geral**
+
+* 2 camisas exercício
+* 1 tênis caminhada + 3 meias
+* 1 tênis social + 3 meias
+* 2 bermudas social
+* 2 bermudas casa
+* 1 bermuda exercício
+* 1 jaqueta corta vento
+* 1 jaqueta frio
+* 1 calça e cinta social
+* 1 calça casa
+* 2 regatas
+* 7 cuecas
+* 2 camisetas manga curta
+* 2 camisetas manga comprida
+
+**Acessórios**
+
+* 2 óculos de sol
+* 1 relógio
+* Carteira e celular
+* 1 shampoo
+* 2 óleos barba
+* Pasta e escova de dentes
+* Máquina de barbear
+* Cortador de unha e tesoura
+
+**Extras**
+
+* Carregador celular
+* Carregador relógio
+* Notebook + Carregador
+* Sombrinha
+* Limpador de tela
+* Remédio 
+
+- - -
 
 Segue abaixo algumas fotos dessa viagem! 
 
