@@ -3,7 +3,7 @@ template: post
 title: Como iniciei minha vida nômade digital
 slug: inicio-vida-nomade
 socialImage: /media/bikes.jpg
-draft: true
+draft: false
 date: 2023-02-19T21:18:09.247Z
 description: >-
   Eu sempre tive o sonho de viajar e ao mesmo tempo era comum na minha vida ter
