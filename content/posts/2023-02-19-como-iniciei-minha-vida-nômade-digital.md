@@ -29,12 +29,14 @@ Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e con
 
 Segue abaixo algumas fotos dessa viagem! **E spoiler: o próximo destino é internacional!**
 
-![Bosque do alemão](/media/img_0638.jpg "Bosque do alemão")
+<img src="/media/img_0638.jpg" width="780" alt="Bosque do alemão" >
 
-![Museu Oscar Niemeyer](/media/img_0601.jpg "Museu Oscar Niemeyer")
+<img src="/media/img_0601.jpg" width="780" alt="Museu Oscar Niemeyer" >
 
-![Hotel All You Need](/media/img_0516.jpg "Hotel All You Need")
+<img src="/media/img_0516.jpg" width="780" alt="Hotel All You Need" >
 
-![Complexo Luxor](/media/img_1132.jpg "Complexo Luxor")
+<img src="/media/img_1132.jpg" width="780" alt="Complexo Luxor" >
 
-![Curitiba de cima do hotel All you need](/media/img_0496.jpg "Curitiba de cima do hotel All you need")
+<img src="/media/img_0496.jpg" width="780" alt="Hotel All You Need" >
+
+![Complexo Luxor](/media/img_0496.jpg "Curitiba de cima do hotel All you need")
