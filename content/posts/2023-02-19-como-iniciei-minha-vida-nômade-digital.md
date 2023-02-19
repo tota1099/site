@@ -33,30 +33,30 @@ Segue abaixo algumas fotos dessa viagem! \*\*
 
 <img src="/media/img_0638.jpg" width="780" alt="Bosque do alemão" >
 
-*****
+- - -
 
 #### Museu Oscar Niemeyer
 
 <img src="/media/img_0601.jpg" width="780" alt="Museu Oscar Niemeyer" >
 
-*****
+- - -
 
-#﻿### Hotel All You Need
+#### Hotel All You Need
 
 <img src="/media/img_0516.jpg" width="780" alt="Hotel All You Need" >
 
-*****
+- - -
 
-#﻿### Complexo Luxor
+#### Complexo Luxor
 
 <img src="/media/img_1132.jpg" width="780" alt="Complexo Luxor" >
 
-*****
+- - -
 
-#﻿### Vista Curitiba de cima do Hotel All You Need
+#### Vista Curitiba de cima do Hotel All You Need
 
 <img src="/media/img_0496.jpg" width="780" alt="Vista Curitiba de cima do Hotel All You Need" >
 
-*****
+- - -
 
 Spoiler: o próximo destino é **internacional**!
