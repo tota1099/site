@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://renanporto.com.br',
   pathPrefix: '/',
   title: 'Renan Porto Blog',
-  subtitle: 'Engenheiro de Sofgtware na RD Station',
+  subtitle: 'Nômade Digital | Engenheiro de Software na RD Station',
   copyright: '© 2023 Renan Porto',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Renan Porto',
     photo: '/photo.jpg',
-    bio: 'Engenheiro de Software na RD Station',
+    bio: 'Nômade Digital | Engenheiro de Software na RD Station',
     contacts: {
       email: 'renan.porto1099@gmail.com',
       github: 'tota1099',
