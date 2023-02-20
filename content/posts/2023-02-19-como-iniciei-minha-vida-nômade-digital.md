@@ -6,10 +6,8 @@ socialImage: /media/img_0638.jpg
 draft: false
 date: 2023-02-19T21:18:09.247Z
 description: >-
-  Eu sempre tive o sonho de viajar e ao mesmo tempo era comum na minha vida ter
-  o privilégio de trabalhar remotamente.
-
-  Trabalho como desenvolvedor de software desde 2014 e sempre foi comum eu trabalhar remotamente.
+  Trabalho como desenvolvedor de software desde 2014, sendo assim, o trabalho
+  remoto sempre foi algo comum para mim. Também sempre amei viajar.
 
   Neste post, eu compartilho como em 2023, comecei a viver um sonho: viver como um nômade digital.
 category: Viagem
