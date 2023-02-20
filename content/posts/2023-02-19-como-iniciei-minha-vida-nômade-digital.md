@@ -21,7 +21,7 @@ Desde 2014 estou atuando como desenvolvedor de software, e um dos maiores benef�
 
 Então, chegou o final do ano de 2022 e aquele momento clichê de definir as metas para o próximo ano. Eu e minha namorada decidimos então nosso objetivo: viver por 1 ano como nômades digitais! 
 
-## Janeiro (Curitiba, PR, Brasil)
+## Janeiro (Curitiba, PR 🇧🇷)
 
 O nosso primeiro destino foi Curitiba, por alguns motivos: somos de Florianópolis, Santa Catarina, e para iniciar, queríamos algum lugar legal porém ao mesmo tempo não tão longe para iniciar. Sabíamos que a primeira viagem iria ser cheia de aprendizados; iriamos levar mais roupas do que deveríamos, sentir falta da família, entre outros pontos.
 
@@ -30,7 +30,6 @@ Em Curitiba, ficamos de 7 de Janeiro de 2023 até 28 de Janeiro (21 dias), e con
 ### O que levamos na viagem
 
 Utilizei 2 mochilas na viagem, sendo 1 mochilão de aproximadamente 50 litros.
-M﻿ochilas
 
 <img src="/media/c0ecad6a-24e6-4118-a09e-874763d3f4b3-1-.jpg" width="780" alt="Mochilas" >
 
@@ -105,4 +104,4 @@ Segue abaixo algumas fotos dessa viagem!
 
 - - -
 
-Spoiler: o próximo destino é **internacional**!
+Spoiler: o próximo destino é **internacional** 👀
