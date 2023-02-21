@@ -3,10 +3,16 @@ template: post
 title: "Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em
   Apenas Cinco Dias"
 slug: sprint-metodo-google-1
-socialImage: /media/esp.jpg
+socialImage: /media/sprint.jpeg
 draft: false
-date: 2023-02-21T14:10:51.725Z
-description: teste
+date: 2023-02-22T14:10:51.725Z
+description: >-
+  Como inovar? Por onde começar? Como montar uma boa equipe? Que forma terá uma
+  ideia quando for colocada em prática? São muitas as perguntas que martelam na
+  cabeça de quem precisa tirar ideias do papel, mas já existe um caminho
+  infalível para responder a todas elas rapidamente: o sprint.
+
+  Nesse post explico breviamente sobre essa metodologia.
 category: produtividade
 tags:
   - livro
@@ -37,3 +43,7 @@ Q﻿uadros brancos são essenciais para uma boa execução e de uma sprint, assi
 ![Imagem do quadro da sprint](/media/sprint.jpeg "Imagem do quadro da sprint")
 
 N﻿os próximos posts, irei comentar sobre o que será feito em cada dia da sprint.
+
+## Referencia
+
+[Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias](https://www.amazon.com.br/Sprint-M%C3%A9todo-Google-Testar-Aplicar/dp/8551001523)
