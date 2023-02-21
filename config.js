@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Nômade Digital | Engenheiro de Software na RD Station',
   copyright: '© 2023 Renan Porto',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'G-EE7M5S1D2K',
   useKatex: false,
   menu: [
