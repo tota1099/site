@@ -4,7 +4,7 @@ title: "Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em
   Apenas Cinco Dias"
 slug: sprint-metodo-google-1
 socialImage: /media/esp.jpg
-draft: true
+draft: false
 date: 2023-02-21T14:10:51.725Z
 description: teste
 category: produtividade
@@ -27,3 +27,13 @@ Q﻿ual é o desafio que você deseja enfrentar na sua sprint? Quais respostas v
 ### E﻿quipe
 
 V﻿ocê vai precisar de pessoas para executar a sprint. Dentro dessa metodologia, temos alguns papeis como o Facilitador - que como o próprio nome diz, possuirá o papel de facilitar o processo, gerindo o tempo da sprint, organizando ideias; o Definidor - será a pessoa que tomará a decisão final caso necessário.. geralmente é a pessoa que mais conhece do assunto.
+
+### T﻿empo e Espaço
+
+A﻿ sprint levará 5 dias, logo, deverá ficar claro que os membros da equipe ficarão focados nela **das 10 horas da manhã até as 5 horas da tarde**.
+
+Q﻿uadros brancos são essenciais para uma boa execução e de uma sprint, assim como post-its, canetas, lanches e água, para deixar os participantes confortáveis.
+
+![Imagem do quadro da sprint](/media/sprint.jpeg "Imagem do quadro da sprint")
+
+N﻿os próximos posts, irei comentar sobre o que será feito em cada dia da sprint.
