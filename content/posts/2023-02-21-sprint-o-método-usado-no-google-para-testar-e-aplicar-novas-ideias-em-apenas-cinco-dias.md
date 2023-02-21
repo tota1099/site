@@ -4,7 +4,7 @@ title: "Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em
   Apenas Cinco Dias"
 slug: sprint-metodo-google-1
 socialImage: /media/sprint.jpeg
-draft: false
+draft: true
 date: 2023-02-22T14:10:51.725Z
 description: >-
   Como inovar? Por onde começar? Como montar uma boa equipe? Que forma terá uma
