@@ -3,7 +3,7 @@ template: post
 title: "Google Sprint: Faça um mapa e escolha um alvo [Segunda Feira]"
 slug: sprint-metodo-google-segunda
 socialImage: /media/sprint.jpeg
-draft: false
+draft: true
 date: 2023-02-23T12:55:05.600Z
 description: >-
   Para iniciar a sprint na segunda feira, deveremos seguir os seguintes passos:
@@ -40,7 +40,7 @@ O﻿ próximo passo é a criação de um mapa da sprint, que possui como objetiv
 
 ### **Exemplo**
 
-![Mapa da sprint](/media/map_devportal.png "Mapa da sprint")
+![Mapa da sprint](/media/mapa.png "Mapa da sprint")
 
 - - -
 
