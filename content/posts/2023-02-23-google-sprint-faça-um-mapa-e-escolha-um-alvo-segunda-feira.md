@@ -65,3 +65,9 @@ O objetivo é refinar o trabalho que foi feito pela manhã, fazendo entrevistas 
 A﻿pós as perguntas aos especialistas, iremos ter várias perguntas referente ao nosso objetivo da sprint. O próximo passo é agrupar as perguntas no mapa - conforme o passo que tem relação com a pergunta - e efetuar uma **votação das melhores perguntas.** 
 
 A﻿pós este passo, **o definidor escolherá, dentro do mapa, um público e um evento-alvo.** Este será o foco da sprint nos próximos dias da semana.
+
+- - -
+
+### **R﻿eferencias**
+
+[Como adaptamos o Design Sprint para 2 dias](https://medium.com/@eric_cerqueira/como-adaptamos-o-design-sprint-para-2-dias-c2b6603f2fac)
