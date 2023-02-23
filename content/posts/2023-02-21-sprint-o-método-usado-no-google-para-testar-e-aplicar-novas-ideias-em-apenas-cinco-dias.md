@@ -2,7 +2,7 @@
 template: post
 title: "Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em
   Apenas Cinco Dias"
-slug: sprint-metodo-google-1
+slug: sprint-metodo-google
 socialImage: /media/sprint.jpeg
 draft: true
 date: 2023-02-22T14:10:51.725Z
