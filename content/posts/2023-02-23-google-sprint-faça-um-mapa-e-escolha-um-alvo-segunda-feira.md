@@ -20,9 +20,8 @@ tags:
 ---
 P﻿ara iniciar uma sprint, você deve buscar 2 respostas: 
 
-\- Objetivo de longo prazo
-
-\-﻿ Quais perguntas que o sprint vai responder
+* Objetivo de longo prazo
+* Quais perguntas que o sprint vai responder
 
 ### **Exemplo**
 
@@ -30,9 +29,8 @@ P﻿ara iniciar uma sprint, você deve buscar 2 respostas:
 
 **P﻿erguntas do sprint:** 
 
-\-﻿ Conseguimos medir a satisfação dos clientes de outra forma?
-
-\-﻿ Quais as principais dores dos clientes no assunto documentação?
+* Conseguimos medir a satisfação dos clientes de outra forma?\
+* Quais as principais dores dos clientes no assunto documentação?
 
 - - -
 
@@ -52,13 +50,10 @@ O objetivo é refinar o trabalho que foi feito pela manhã, fazendo entrevistas 
 
 ### E﻿xemplo
 
-**CP** ter feedbacks mais claros dos clientes?
-
-**C﻿P** fazer o cliente utilizar uma API pela página do portal de desenvolvedor?
-
-**C﻿P** instigar o cliente a dar feedback?
-
-**C﻿P** definir as maiores dores dos clientes?
+* **CP** ter feedbacks mais claros dos clientes?
+* **C﻿P** fazer o cliente utilizar uma API pela página do portal de desenvolvedor?
+* **C﻿P** instigar o cliente a dar feedback?
+* **C﻿P** definir as maiores dores dos clientes?
 
 - - -
 
